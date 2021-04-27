@@ -1,6 +1,8 @@
-# boostnote_exporter
+# BoostNote exporter
 
 Just a single script to save your boostnote documents into local files
+
+  Important: it only saves documents that are inside the folders, if you have a document outside the folders they won't be saved, this is because BoostNote API is not listing these documents at the moment.
 
 # Requirements
 
